@@ -1,4 +1,4 @@
-gitmock仓库
+git mock
 ## markdown编辑器
 https://wavedanger.github.io/learngit/
 ## 学习git分支
